@@ -1,0 +1,202 @@
+Georgia Tech — B.S. Computer Science Thread Requirements
+Source: catalog.gatech.edu/programs/computer-science-bs/
+Catalog Year: 2024-2025
+Accessed: 2025-03-29
+Institution: Georgia Institute of Technology
+
+================================================================================
+THREAD 1: INTELLIGENCE THREAD
+================================================================================
+
+The Intelligence Thread prepares students to build systems that exhibit
+intelligent behaviors: reasoning, planning, learning, and perceiving.
+Students completing the Intelligence Thread develop deep expertise in
+AI, machine learning, and computer vision.
+
+Required Thread Courses (all must be completed with C or better):
+
+  CS 3600  — Introduction to Artificial Intelligence (3 cr)
+             Prerequisite: CS 1332
+  CS 4641  — Machine Learning (3 cr)
+             Prerequisites: CS 3600 AND (MATH 2603 or MATH 3012)
+  CS 4650  — Natural Language Processing (3 cr)
+             Prerequisite: CS 3600
+  CS 4731  — Game AI (3 cr) — OR — CS 3630 Introduction to Robotics
+             Prerequisite: CS 3600
+
+Thread Electives (choose 2 courses, 6 credits, from):
+  CS 4476 — Computer Vision
+  CS 4803 — Special Topics in Deep Learning
+  CS 4649 — Robot Intelligence: Planning
+  CS 7641 — Machine Learning (graduate-level, requires advisor approval)
+
+Total Thread Credits: approximately 18 credit hours.
+
+Prerequisite chain to complete Intelligence Thread from scratch:
+  CS 1301 → CS 1331 → CS 1332 → CS 3600 → CS 4641 + CS 4650 + electives
+  Alongside: MATH 1551 → MATH 1552 → MATH 1554 (for CS 4641)
+             CS 2050 or MATH 2603 (for CS 4641)
+
+================================================================================
+THREAD 2: SYSTEMS AND ARCHITECTURE THREAD
+================================================================================
+
+The Systems and Architecture Thread prepares students to build and analyze
+the core hardware and software systems that underpin computing: processors,
+operating systems, compilers, and networks.
+
+Required Thread Courses (all must be completed with C or better):
+
+  CS 2110  — Computer Organization and Programming (4 cr)
+             Prerequisite: CS 1331
+  CS 2200  — Systems and Networks (4 cr)
+             Prerequisite: CS 2110
+  CS 3210  — Design of Operating Systems (3 cr)
+             Prerequisite: CS 2200
+  CS 3220  — Computer Architecture (3 cr)
+             Prerequisite: CS 2200
+  CS 4210  — Advanced Operating Systems (3 cr)
+             Prerequisite: CS 3210
+
+Thread Electives (choose 1 course, 3 credits, from):
+  CS 4220 — Computer Networking
+  CS 4290 — Advanced Computer Organization
+  CS 3320 — Distributed Systems
+
+Total Thread Credits: approximately 18 credit hours.
+
+Prerequisite chain for Systems Thread:
+  CS 1301 → CS 1331 → CS 2110 → CS 2200 → CS 3210 → CS 4210
+                                          → CS 3220
+
+================================================================================
+THREAD 3: INFORMATION INTERNETWORKS THREAD
+================================================================================
+
+The Information Internetworks Thread prepares students to work with
+the infrastructure of the Internet: networks, distributed systems, databases,
+and large-scale data management.
+
+Required Thread Courses (all must be completed with C or better):
+
+  CS 2200  — Systems and Networks (4 cr)
+             Prerequisite: CS 2110
+  CS 4400  — Introduction to Database Systems (3 cr)
+             Prerequisites: CS 1301 AND CS 2340
+  CS 4220  — Computer Networking (3 cr)
+             Prerequisite: CS 2200
+  CS 4675  — Web Search and Text Mining (3 cr)
+             Prerequisite: CS 3600
+
+Thread Electives (choose 2 courses from):
+  CS 4365 — Introduction to Enterprise Computing
+  CS 4457 — Computer Networks
+  CS 4480 — Digital Health Informatics
+
+================================================================================
+THREAD 4: THEORY THREAD
+================================================================================
+
+The Theory Thread provides deep understanding of the mathematical
+foundations of computing: computability, complexity, algorithms, and
+formal languages.
+
+Required Thread Courses (all must be completed with C or better):
+
+  CS 2050  — Introduction to Discrete Mathematics (3 cr)
+             Prerequisite: CS 1301
+  CS 3510  — Design and Analysis of Algorithms (3 cr)
+             Prerequisites: CS 1332 AND CS 2050
+  CS 4510  — Automata and Complexity (3 cr)
+             Prerequisites: CS 2050 AND CS 3510
+  CS 4540  — Advanced Algorithms (3 cr)
+             Prerequisite: CS 3510
+
+Thread Electives (choose 2 from):
+  CS 4560 — Information Theory
+  CS 4553 — Coding Theory
+  MATH 4150 — Introduction to Number Theory
+
+Prerequisite chain for Theory Thread:
+  CS 1301 → CS 1331 → CS 1332 → CS 3510 → CS 4510 → CS 4540
+           → CS 2050 ↗
+
+================================================================================
+SECTION: COMPUTING AND SOCIETY REQUIREMENT
+================================================================================
+
+Source: catalog.gatech.edu/programs/computer-science-bs/
+All B.S. CS students must complete the Ethics/Computing and Society requirement.
+
+CS 3001 — Computing and Society
+Credit Hours: 3
+Prerequisites: Third-year standing (completion of at least 60 credit hours)
+Offered: Fall, Spring
+
+Explores social, ethical, legal, and professional issues in computing. Topics:
+intellectual property, privacy, security, professional ethics, computing and
+work, AI ethics, and societal impact of emerging technologies.
+Required for ALL B.S. CS students. Must be completed with C or better.
+
+================================================================================
+SECTION: SAMPLE 4-YEAR PLAN (Intelligence Thread + Theory Thread)
+================================================================================
+
+YEAR 1 — FALL:
+  CS 1301 — Introduction to Computing (3 cr)
+  MATH 1551 — Differential Calculus (2 cr)
+  English Composition I (3 cr)
+  Lab Science I (4 cr)
+  Free Elective (3 cr)
+  Total: 15 cr
+
+YEAR 1 — SPRING:
+  CS 1331 — Intro to OOP (3 cr)
+  CS 2050 — Discrete Mathematics (3 cr)
+  MATH 1552 — Integral Calculus (4 cr)
+  English Composition II (3 cr)
+  Humanities elective (3 cr)
+  Total: 16 cr
+
+YEAR 2 — FALL:
+  CS 1332 — Data Structures (3 cr)
+  CS 2110 — Computer Organization (4 cr)
+  MATH 1554 — Linear Algebra (4 cr)
+  Lab Science II (4 cr)
+  Total: 15 cr
+
+YEAR 2 — SPRING:
+  CS 2200 — Systems and Networks (4 cr)
+  CS 2316 — Data Manipulation (3 cr)
+  CS 2340 — Objects and Design (3 cr)
+  Social Science elective (3 cr)
+  Total: 13 cr
+
+YEAR 3 — FALL:
+  CS 3510 — Algorithms (3 cr)
+  CS 3600 — Intro to AI (3 cr)
+  CS 4400 — Database Systems (3 cr)
+  CS 3001 — Computing and Society (3 cr)
+  Total: 12 cr
+
+YEAR 3 — SPRING:
+  CS 4510 — Automata and Complexity (3 cr)
+  CS 4641 — Machine Learning (3 cr)
+  CS 4650 — Natural Language Processing (3 cr)
+  Humanities elective (3 cr)
+  Total: 12 cr
+
+YEAR 4 — FALL:
+  CS 4803 — Deep Learning (3 cr)
+  CS 4540 — Advanced Algorithms (3 cr)
+  Thread Electives (6 cr)
+  Free Elective (3 cr)
+  Total: 15 cr
+
+YEAR 4 — SPRING:
+  Thread Electives (6 cr)
+  Free Electives (6 cr)
+  HSOC Electives (3 cr)
+  Total: 15 cr
+
+GRAND TOTAL: ~120 credit hours

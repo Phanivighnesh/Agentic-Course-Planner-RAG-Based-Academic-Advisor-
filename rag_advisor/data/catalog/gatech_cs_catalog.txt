@@ -1,0 +1,440 @@
+Georgia Tech — Computer Science Course Catalog
+Source: catalog.gatech.edu/courses-undergrad/cs/
+Catalog Year: 2024-2025
+Accessed: 2025-03-29
+Institution: Georgia Institute of Technology, College of Computing
+
+================================================================================
+SECTION 1: CS CORE COURSES — LOWER DIVISION
+================================================================================
+
+CS 1301 — Introduction to Computing
+Credit Hours: 3
+Prerequisites: None
+Offered: Fall, Spring, Summer
+
+Introduction to fundamental computing principles including problem solving,
+algorithm design, and programming. Students learn to write, read, execute, and
+debug code using Python. Topics include variables, loops, conditionals, functions,
+recursion, data structures (lists, dictionaries), file I/O, and basic object-oriented
+programming concepts. This is the gateway course for all CS, Computer Engineering,
+and related majors at Georgia Tech.
+Minimum grade to satisfy prerequisite: C or better.
+
+Courses unlocked by CS 1301:
+  - CS 1331 (Introduction to Object-Oriented Programming)
+  - CS 4400 (Introduction to Database Systems)
+  - ECE 2020 (Digital System Design)
+
+--------------------------------------------------------------------------------
+
+CS 1331 — Introduction to Object-Oriented Programming
+Credit Hours: 3
+Prerequisites: CS 1301 (grade of C or better)
+Offered: Fall, Spring, Summer
+
+Introduction to techniques and methods of object-oriented programming including
+encapsulation, inheritance, and polymorphism. Emphasis on software development
+and individual programming skills. Students program in Java. Topics include
+classes and objects, interfaces, abstract classes, exception handling, file I/O,
+recursion, generics, and introductory data structures (linked lists, stacks,
+queues, trees). Serves as a core prerequisite for CS 1332, CS 2110, and CS 2340.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 1332 — Data Structures and Algorithms for Applications
+Credit Hours: 3
+Prerequisites: CS 1331 (grade of C or better)
+Offered: Fall, Spring, Summer
+
+Computer data structures and algorithms in the context of object-oriented
+programming. Focus on software development towards applications. Topics include:
+arrays, linked lists, stacks, queues, deques, trees (BST, AVL, 2-4, heaps),
+hash maps, graphs, sorting algorithms (bubble, insertion, selection, merge,
+quick, radix), pattern matching algorithms, and graph traversals (BFS, DFS,
+Dijkstra's, MST). Algorithm analysis using Big-O notation.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 2050 — Introduction to Discrete Mathematics for Computer Science
+Credit Hours: 3
+Prerequisites: CS 1301 (grade of C or better) or CS 1315 (grade of C or better)
+Offered: Fall, Spring
+
+Introduction to mathematical foundations required for computer science. Topics:
+logic and proofs, sets, relations, functions, induction and recursion, counting
+and combinatorics, graph theory, number theory, and introductory probability.
+Prepares students for CS 3510 (Design and Analysis of Algorithms).
+Note: CS 2051 is the Honors version of this course; credit not awarded for both.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 2110 — Computer Organization and Programming
+Credit Hours: 4
+Prerequisites: CS 1331 (grade of C or better)
+Offered: Fall, Spring
+
+An introduction to basic computer organization: datapaths, the memory hierarchy,
+assembly language (LC-3), C programming, and system-level programming. Students
+gain understanding of how high-level programs map to machine instructions, how
+memory is managed, and how hardware affects software performance. Core requirement
+for Systems and Architecture thread.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 2200 — Systems and Networks
+Credit Hours: 4
+Prerequisites: CS 2110 (grade of C or better)
+Offered: Fall, Spring
+
+Provides a broad view of systems: operating system structure, process management,
+concurrency, synchronization, memory management, file systems, I/O, networking
+fundamentals, and distributed systems. Combines both systems programming (in C)
+and theoretical understanding.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 2340 — Objects and Design
+Credit Hours: 3
+Prerequisites: CS 1332 (grade of C or better)
+Offered: Fall, Spring
+
+Object-oriented programming methods for dealing with large programs. Focus on
+quality processes, effective debugging techniques, and testing to assure a quality
+product. Topics: design patterns, UML, agile development, version control,
+refactoring, unit testing, and software architecture. Team project required.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 2316 — Data Manipulation and Analysis
+Credit Hours: 3
+Prerequisites: CS 1331 (grade of C or better)
+Offered: Fall, Spring
+
+Input, storage, manipulation, and presentation of data using Python. Topics include
+web scraping, REST APIs, CSV/JSON/XML processing, SQL databases, data cleaning with
+pandas, and data visualization with matplotlib. Bridges programming fundamentals and
+data science.
+Minimum grade to satisfy prerequisite: C or better.
+
+================================================================================
+SECTION 2: CS CORE COURSES — UPPER DIVISION
+================================================================================
+
+CS 3510 — Design and Analysis of Algorithms
+Credit Hours: 3
+Prerequisites: CS 1332 (grade of C or better) AND CS 2050 (grade of C or better)
+Offered: Fall, Spring
+
+Basic techniques of design and analysis of efficient algorithms for standard
+computational problems and NP-Completeness. Topics include divide-and-conquer,
+dynamic programming, greedy algorithms, network flow, randomized algorithms,
+and reductions between problems. Mathematical proof of correctness required.
+Note: Credit not allowed for both CS 3510 and CS 3511 (Honors version).
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 3600 — Introduction to Artificial Intelligence
+Credit Hours: 3
+Prerequisites: CS 1332 (grade of C or better)
+Offered: Fall, Spring
+
+An introduction to artificial intelligence and machine learning. Topics include
+intelligent system design methodologies, search and problem solving (BFS, DFS,
+A*, minimax), supervised learning (decision trees, neural networks basics),
+unsupervised learning (k-means), and reinforcement learning fundamentals.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 3630 — Introduction to Perception and Robotics
+Credit Hours: 3
+Prerequisites: CS 1332 (grade of C or better)
+Offered: Fall, Spring
+
+Covers fundamental problems and leading solutions for computer and robot perception
+and action from the point of view of autonomous robot navigation. Topics: sensors
+and actuators, probabilistic state estimation, localization, path planning, computer
+vision basics.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 4400 — Introduction to Database Systems
+Credit Hours: 3
+Prerequisites: CS 1301 (grade of C or better) AND CS 2340 (grade of C or better)
+  OR instructor consent
+Offered: Fall, Spring
+
+Relational database design and implementation. Topics: entity-relationship modeling,
+relational algebra, SQL (DDL, DML, DCL), functional dependencies, normalization
+(1NF through BCNF), transaction management, concurrency control, and introduction
+to NoSQL. Students design and build a complete database-backed application.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 4510 — Automata and Complexity
+Credit Hours: 3
+Prerequisites: CS 2050 (grade of C or better) AND CS 3510 (grade of C or better)
+Offered: Fall, Spring
+
+Theoretical models of computation. Topics: finite automata, regular languages,
+context-free languages and grammars, pushdown automata, Turing machines, decidability,
+the halting problem, and complexity classes (P, NP, NP-Completeness, PSPACE).
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 4641 — Machine Learning
+Credit Hours: 3
+Prerequisites: CS 3600 (grade of C or better) AND MATH 2603 or MATH 3012
+  (grade of C or better)
+Offered: Fall, Spring
+
+Supervised and unsupervised machine learning. Topics: regression, classification
+(logistic regression, SVM, neural networks, decision trees, ensembles), clustering
+(k-means, EM), dimensionality reduction (PCA), model evaluation and validation,
+bias-variance tradeoff, and feature engineering. Significant programming component
+in Python using scikit-learn and PyTorch.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 4650 — Natural Language Processing
+Credit Hours: 3
+Prerequisites: CS 3600 (grade of C or better)
+Offered: Spring
+
+Statistical and neural approaches to NLP. Topics: language modeling (n-gram,
+neural), text classification, sequence models (RNN, LSTM, transformers), named
+entity recognition, parsing, machine translation, question answering, and
+fine-tuning large language models. Programming assignments in Python/PyTorch.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 4731 — Game AI
+Credit Hours: 3
+Prerequisites: CS 3600 (grade of C or better)
+Offered: Fall
+
+Application of artificial intelligence techniques to games. Topics: pathfinding,
+decision making, strategy, and learning in games. Project-based course.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 4803 — Special Topics in CS (Deep Learning)
+Credit Hours: 3
+Prerequisites: CS 4641 (grade of C or better)
+Offered: Fall, Spring (varies by topic)
+
+Advanced deep learning: convolutional networks, recurrent networks, transformers,
+generative models (VAE, GAN, Diffusion), and reinforcement learning. Current
+research papers assigned. Significant project component. Instructor consent
+may be required for overrides.
+Minimum grade to satisfy prerequisite: C or better.
+
+================================================================================
+SECTION 3: MATHEMATICS REQUIREMENTS FOR CS
+================================================================================
+
+MATH 1551 — Differential Calculus
+Credit Hours: 2
+Prerequisites: MATH 1113 (Precalculus, grade of C or better) or placement exam
+Offered: Fall, Spring, Summer
+
+Differential calculus: limits, continuity, derivatives, differentiation rules,
+applications of derivatives (optimization, related rates, curve sketching), and
+introduction to integration.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+MATH 1552 — Integral Calculus
+Credit Hours: 4
+Prerequisites: MATH 1551 (grade of C or better)
+Offered: Fall, Spring, Summer
+
+Integral calculus: antiderivatives, definite integrals, fundamental theorem of
+calculus, techniques of integration, improper integrals, sequences and series,
+and introduction to differential equations.
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+MATH 1554 — Linear Algebra
+Credit Hours: 4
+Prerequisites: MATH 1551 (grade of C or better) or concurrent enrollment
+Offered: Fall, Spring, Summer
+
+Systems of linear equations, matrices, determinants, vector spaces, linear
+transformations, eigenvalues and eigenvectors, orthogonality, and applications
+to computer science and engineering. Required for CS 4641 (Machine Learning).
+Minimum grade to satisfy prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+MATH 2603 — Introduction to Discrete Mathematics
+Credit Hours: 3
+Prerequisites: MATH 1551 (grade of C or better)
+Offered: Fall, Spring
+
+Discrete structures for computer science: logic, sets, relations, functions,
+induction, combinatorics, graph theory, and number theory. Alternative to CS 2050
+for students in certain tracks.
+Minimum grade to satisfy prerequisite: C or better.
+
+================================================================================
+SECTION 4: B.S. COMPUTER SCIENCE — DEGREE REQUIREMENTS (2024-2025)
+================================================================================
+
+Source: https://catalog.gatech.edu/programs/computer-science-bs/
+Total credit hours required: 120
+
+--- Required Core Courses (All students must complete) ---
+
+  CS 1301  — Introduction to Computing (3 cr)
+  CS 1331  — Introduction to OOP (3 cr)
+  CS 1332  — Data Structures and Algorithms (3 cr)
+  CS 2050  — Intro to Discrete Mathematics (3 cr)
+  CS 2110  — Computer Organization and Programming (4 cr)
+  CS 2200  — Systems and Networks (4 cr)
+  CS 2340  — Objects and Design (3 cr)
+  CS 3510  — Design and Analysis of Algorithms (3 cr)
+  CS 3600  — Introduction to Artificial Intelligence (3 cr)
+  CS 4400  — Introduction to Database Systems (3 cr)
+  CS 4510  — Automata and Complexity (3 cr)
+
+All required CS courses must be completed with a grade of C or better
+to count toward degree requirements. Pass/fail grading is NOT permitted
+for required CS courses (only allowed for free electives, max 6 hours,
+and CS 1100 Freshman Leap Seminar).
+
+--- Thread Requirements ---
+
+Each student must select TWO Threads from the following nine options:
+  1. Devices
+  2. Information Internetworks
+  3. Intelligence
+  4. Media
+  5. Modeling and Simulation
+  6. People
+  7. Systems and Architecture
+  8. Theory
+  9. Cybersecurity and Privacy
+
+Each Thread requires approximately 15-18 additional credit hours of
+Thread-specific elective courses.
+
+--- Mathematics and Science Requirements ---
+
+  MATH 1551 — Differential Calculus (2 cr)
+  MATH 1552 — Integral Calculus (4 cr)
+  MATH 1554 — Linear Algebra (4 cr)
+  MATH 2603 or CS 2050 — Discrete Mathematics (3 cr)
+  Lab Sciences: Minimum two lab science courses, at least one sequence
+    (e.g., PHYS 2211 + PHYS 2212, or CHEM 1310 + CHEM 1315, etc.)
+
+--- Humanities, Social Sciences, and Languages (HSOC) ---
+
+  Minimum 18 credit hours of Humanities/Social Science courses.
+  Must include: Ethics requirement (CS 3001 Computing and Society, 3 cr)
+  No more than 6 credit hours from any single department.
+
+--- Free Electives ---
+
+  12 credit hours of free electives.
+  Up to 6 of these hours may be taken on a pass/fail basis.
+  No 1000- or 2000-level MATH (except approved sequences) may count.
+
+--- Residency Requirement ---
+
+  At least 36 credit hours must be completed in residence at Georgia Tech
+  (as opposed to transfer credit). This includes the final 30 credit hours
+  of the degree.
+
+--- GPA Requirement ---
+
+  Minimum cumulative GPA of 2.0 required for graduation.
+  No single required CS course may be completed with below a C.
+
+================================================================================
+SECTION 5: ACADEMIC POLICIES — GEORGIA TECH
+================================================================================
+
+Source: catalog.gatech.edu/academics/undergraduate/
+Accessed: 2025-03-29
+
+--- Prerequisite Policy ---
+
+A prerequisite is a course that must be completed (passed with C or better)
+BEFORE enrolling in the subsequent course. Prerequisites are enforced at
+registration. A student found to have enrolled without meeting prerequisites
+may be administratively withdrawn.
+
+A co-requisite is a course that may be completed concurrently (in the same
+semester) as the course it supports. Co-requisites must be enrolled in the
+same term unless the student has already completed the co-requisite course.
+
+Exception: A student may request a prerequisite override from the course
+instructor. Instructor consent overrides require written approval and are
+granted at the discretion of the faculty member. Consent of instructor
+does NOT guarantee enrollment if the course is full.
+
+--- Minimum Grade Policy ---
+
+A grade of C (2.0) or better is required for any course to satisfy a
+prerequisite requirement. Grades of C- (1.7), D (1.0), or D- (0.7) do
+NOT satisfy prerequisite requirements, even though they are passing grades
+for GPA purposes. A grade of F, W, WF, or I does not satisfy any prerequisite.
+
+--- Course Repeat Policy ---
+
+Students may repeat a course if they receive a grade of C- or lower (including F).
+A student who has earned a C or higher may NOT repeat the course for credit
+without special dean approval.
+
+When a course is repeated at Georgia Tech:
+  - Both grades appear on the official transcript.
+  - The HIGHER grade replaces the lower grade in GPA computation
+    (grade replacement / grade forgiveness policy).
+  - A course may be repeated at most twice without Dean of Students approval.
+  - The course credit hours count only ONCE toward total degree hours.
+
+--- Credit Hour Load Policy ---
+
+Standard full-time enrollment: 12–18 credit hours per semester.
+Enrollment above 18 credit hours requires academic advisor approval.
+Part-time status (fewer than 12 hours) may affect financial aid eligibility.
+Summer enrollment is limited to 14 credit hours without special approval.
+
+--- Transfer Credit Policy ---
+
+Transfer coursework from accredited institutions is evaluated by the
+Office of the Registrar. Equivalent courses may satisfy degree requirements
+and prerequisites pending formal Registrar evaluation.
+  - Maximum 60 transfer credit hours may be applied toward the 120-hour degree.
+  - Transfer students must complete at least 36 credit hours at Georgia Tech.
+  - Official transcripts required. Evaluation may take 4-6 weeks.
+  - Students may NOT enroll in courses for which transfer equivalency has not
+    yet been confirmed by the Registrar.
+
+--- Academic Integrity Policy ---
+
+All submitted work must be the student's own. Collaboration is permitted only
+as explicitly stated in the course syllabus. Unauthorized collaboration,
+plagiarism, or use of AI-generated content without disclosure constitutes
+academic misconduct. Violations are subject to the Georgia Tech Honor Code and
+may result in a 0 on the assignment, a failing grade in the course, or
+academic dismissal.
+
+Source: catalog.gatech.edu/policies/academic-regulations/

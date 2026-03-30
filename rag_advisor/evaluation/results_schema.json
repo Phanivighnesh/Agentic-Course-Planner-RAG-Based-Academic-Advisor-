@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RAG Evaluation Results",
+  "type": "object",
+  "properties": {
+    "metrics": {
+      "type": "object",
+      "properties": {
+        "total_queries":          { "type": "integer" },
+        "citation_coverage_rate": { "type": "number" },
+        "eligibility_correct":    { "type": "integer" },
+        "eligibility_total":      { "type": "integer" },
+        "eligibility_accuracy":   { "type": "number" },
+        "abstention_correct":     { "type": "integer" },
+        "abstention_total":       { "type": "integer" },
+        "abstention_accuracy":    { "type": "number" },
+        "errors":                 { "type": "integer" }
+      },
+      "required": ["total_queries", "citation_coverage_rate", "eligibility_accuracy", "abstention_accuracy"]
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id":           { "type": "string" },
+          "category":     { "type": "string", "enum": ["prereq_check", "chain_question", "program_req", "not_in_docs"] },
+          "query":        { "type": "string" },
+          "expected":     { "type": "string" },
+          "decision":     { "type": "string" },
+          "cited":        { "type": "boolean" },
+          "abstained":    { "type": "boolean" },
+          "correct":      { "type": ["boolean", "null"] },
+          "elapsed_s":    { "type": "number" },
+          "error":        { "type": ["string", "null"] },
+          "response":     { "type": "string" }
+        },
+        "required": ["id", "category", "query", "expected", "decision", "cited", "abstained"]
+      }
+    }
+  },
+  "required": ["metrics", "results"]
+}

@@ -1,0 +1,27 @@
+# Core
+crewai==0.28.0
+langchain
+langchain-community
+langchain-groq
+
+# Vector store & embeddings
+faiss-cpu==1.8.0
+sentence-transformers==2.7.0
+
+# Document loading
+beautifulsoup4==4.12.3
+lxml==5.2.2
+pypdf==4.2.0
+unstructured==0.13.7
+
+# UI
+streamlit==1.35.0
+streamlit-chat==0.1.1
+
+# Utilities
+python-dotenv==1.0.0
+pydantic
+rich
+pandas
+tabulate
+tiktoken
