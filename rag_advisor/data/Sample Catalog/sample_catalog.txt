@@ -1,0 +1,389 @@
+Computer Science Course Catalog — Sample Data
+Georgia State University (Demo Dataset)
+Catalog Year: 2024-2025
+Source: Adapted from public university catalog for educational demonstration
+Accessed: 2025-01-15
+
+================================================================================
+SECTION 1: COMPUTER SCIENCE COURSE DESCRIPTIONS
+================================================================================
+
+CS 101 — Introduction to Computer Science (3 credits)
+Prerequisites: None
+Co-requisites: None
+Offered: Fall, Spring, Summer
+
+An introduction to problem-solving using computers. Topics include algorithm design,
+basic programming concepts, data types, control flow, functions, and introductory
+object-oriented programming. Students will use Python as the primary language.
+This course satisfies the CS core programming requirement.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 150 — Discrete Mathematics for Computer Science (3 credits)
+Prerequisites: MATH 101 or placement exam
+Co-requisites: None
+Offered: Fall, Spring
+
+Introduces the mathematical foundations of computer science. Topics include logic,
+sets, relations, functions, induction, recursion, combinatorics, graph theory, and
+basic proof techniques. This course is required for all CS majors and must be
+completed before taking CS 310.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 201 — Data Structures and Programming (3 credits)
+Prerequisites: CS 101 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring, Summer
+
+A study of fundamental data structures and their implementation: linked lists,
+stacks, queues, trees, heaps, hash tables, and graphs. Emphasizes algorithm
+analysis and Big-O notation. Object-oriented design patterns introduced.
+Programming projects in Java and/or Python.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 210 — Computer Organization and Architecture (3 credits)
+Prerequisites: CS 101 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring
+
+Covers digital logic, binary representation, machine language, assembly language
+programming, CPU design, memory hierarchy, and I/O systems. Students gain a
+low-level understanding of how programs execute on hardware.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 301 — Object-Oriented Software Design (3 credits)
+Prerequisites: CS 201 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring
+
+Advanced object-oriented programming and software design principles. Topics include
+design patterns (Creational, Structural, Behavioral), UML modeling, unit testing,
+refactoring, and agile development practices. Capstone project required.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 310 — Algorithms and Complexity (3 credits)
+Prerequisites: CS 201 (grade of C or better) AND CS 150 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring
+
+Design and analysis of algorithms. Topics include divide-and-conquer, dynamic
+programming, greedy algorithms, graph algorithms (BFS, DFS, Dijkstra, MST),
+NP-completeness, and approximation algorithms. Mathematical proof of correctness
+required for all algorithm analyses.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 320 — Database Systems (3 credits)
+Prerequisites: CS 201 (grade of C or better) AND CS 301 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring
+
+Introduction to relational database management systems. Topics include the relational
+model, SQL (DDL and DML), normalization (1NF through BCNF), transaction management,
+concurrency control, recovery, and NoSQL overview. Students design and implement
+a full database application as a semester project.
+Note: This course was formerly listed as CS 450 in catalogs prior to 2023-2024.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 330 — Operating Systems (3 credits)
+Prerequisites: CS 201 (grade of C or better) AND CS 210 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring
+
+Principles of modern operating systems. Topics include processes and threads,
+CPU scheduling, synchronization primitives, deadlock, memory management, virtual
+memory, file systems, and I/O management. Programming projects in C.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 370 — Software Engineering (3 credits)
+Prerequisites: CS 301 (grade of C or better)
+Co-requisites: None
+Offered: Fall, Spring
+
+Software development lifecycle models, requirements engineering, system design,
+implementation, testing strategies, maintenance, and project management. Team-based
+capstone project following agile methodology. Written and oral communication emphasized.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 410 — Computer Networks (3 credits)
+Prerequisites: CS 330 (grade of C or better)
+Co-requisites: None
+Offered: Fall
+
+Network architecture and protocols. Topics include the OSI and TCP/IP models,
+data link protocols, IP routing, TCP/UDP, DNS, HTTP, network security basics,
+and socket programming. Students implement networked applications in Python.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 420 — Machine Learning (3 credits)
+Prerequisites: CS 310 (grade of C or better) AND MATH 301 (grade of C or better)
+  AND STAT 201 (grade of C or better)
+Co-requisites: None
+Offered: Spring
+
+Supervised and unsupervised machine learning algorithms. Topics include linear
+regression, logistic regression, decision trees, random forests, SVM, k-means,
+neural network basics, model evaluation, and feature engineering.
+Programming in Python with scikit-learn and PyTorch.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 450 — Advanced Topics in Machine Learning (3 credits)
+Prerequisites: CS 420 (grade of C or better)
+Co-requisites: None
+Offered: Spring
+
+Deep learning architectures, convolutional networks, recurrent networks,
+transformers, generative models (VAE, GAN), and reinforcement learning.
+Current research papers assigned weekly. Significant project component.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 460 — Natural Language Processing (3 credits)
+Prerequisites: CS 420 (grade of C or better)
+Co-requisites: None
+Offered: Fall (alternate years)
+
+Statistical and neural approaches to NLP. Topics include text classification,
+sequence labeling, parsing, machine translation, question answering, and
+large language model fine-tuning.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+CS 480 — Independent Study (1-3 credits)
+Prerequisites: Instructor consent required. Student must have completed at least
+  60 credit hours and maintain a GPA of 3.0 or higher.
+Co-requisites: None
+Offered: Fall, Spring, Summer
+
+Supervised independent research or programming project under faculty direction.
+Student and faculty must agree on a written project proposal before enrollment.
+A final written report and oral presentation are required.
+Note: Instructor consent is mandatory; enrollment without signed approval form
+from faculty supervisor will result in administrative withdrawal.
+
+--------------------------------------------------------------------------------
+
+CS 499 — Senior Capstone Project (3 credits)
+Prerequisites: CS 370 (grade of C or better) AND senior standing
+  (completion of at least 90 credit hours) AND CS GPA of 2.5 or higher.
+Co-requisites: None
+Offered: Fall, Spring
+
+A culminating project experience for graduating CS seniors. Students propose,
+design, implement, and present an original software system. Weekly milestones,
+peer reviews, and a final public demonstration required.
+Enrollment limited to students in their final two semesters.
+
+================================================================================
+SECTION 2: MATHEMATICS COURSE DESCRIPTIONS
+================================================================================
+
+MATH 101 — College Algebra and Precalculus (3 credits)
+Prerequisites: Placement exam or MATH 099
+Offered: Fall, Spring, Summer
+
+Review of algebra, functions, polynomial and rational functions, exponential and
+logarithmic functions, and trigonometry. Prepares students for calculus.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+MATH 201 — Calculus I (3 credits)
+Prerequisites: MATH 101 (grade of C or better) or placement into Calculus
+Offered: Fall, Spring, Summer
+
+Limits, continuity, differentiation, applications of derivatives, introduction
+to integration, and the Fundamental Theorem of Calculus.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+MATH 202 — Calculus II (3 credits)
+Prerequisites: MATH 201 (grade of C or better)
+Offered: Fall, Spring
+
+Techniques of integration, sequences and series, Taylor series, parametric
+equations, and polar coordinates.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+MATH 301 — Linear Algebra (3 credits)
+Prerequisites: MATH 202 (grade of C or better)
+Offered: Fall, Spring
+
+Vectors, matrices, systems of linear equations, determinants, vector spaces,
+linear transformations, eigenvalues and eigenvectors, and applications.
+Required for CS 420 (Machine Learning).
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+STAT 201 — Introduction to Statistics (3 credits)
+Prerequisites: MATH 101 (grade of C or better)
+Offered: Fall, Spring, Summer
+
+Descriptive statistics, probability, discrete and continuous distributions,
+sampling distributions, confidence intervals, hypothesis testing, linear
+regression, and chi-square tests. Required for CS 420 (Machine Learning).
+Minimum passing grade to use as prerequisite: C or better.
+
+================================================================================
+SECTION 3: PHYSICS COURSES
+================================================================================
+
+PHYS 101 — General Physics I (4 credits)
+Prerequisites: MATH 201 (co-requisite acceptable — may be taken concurrently)
+Offered: Fall, Spring
+
+Mechanics, kinematics, Newton's laws, work, energy, momentum, rotational motion,
+and oscillations. Three lectures and one lab session per week.
+Minimum passing grade to use as prerequisite: C or better.
+
+--------------------------------------------------------------------------------
+
+PHYS 201 — General Physics II (4 credits)
+Prerequisites: PHYS 101 (grade of C or better)
+Co-requisites: MATH 202 (may be taken concurrently)
+Offered: Spring
+
+Electricity, magnetism, circuits, waves, optics, and introduction to modern
+physics. Three lectures and one lab per week.
+Minimum passing grade to use as prerequisite: C or better.
+
+================================================================================
+SECTION 4: B.S. COMPUTER SCIENCE DEGREE REQUIREMENTS
+================================================================================
+
+Total Credits Required: 120 semester credit hours
+
+--- CS Core Requirements (45 credits) ---
+
+Students must complete all of the following:
+  CS 101  — Introduction to Computer Science (3 cr)
+  CS 150  — Discrete Mathematics for Computer Science (3 cr)
+  CS 201  — Data Structures and Programming (3 cr)
+  CS 210  — Computer Organization and Architecture (3 cr)
+  CS 301  — Object-Oriented Software Design (3 cr)
+  CS 310  — Algorithms and Complexity (3 cr)
+  CS 320  — Database Systems (3 cr)
+  CS 330  — Operating Systems (3 cr)
+  CS 370  — Software Engineering (3 cr)
+  CS 499  — Senior Capstone Project (3 cr)
+  MATH 201 — Calculus I (3 cr)
+  MATH 202 — Calculus II (3 cr)
+  MATH 301 — Linear Algebra (3 cr)
+  STAT 201 — Introduction to Statistics (3 cr)
+  CS 150  — Discrete Mathematics (counted above)
+
+--- CS Electives (18 credits) ---
+
+Students must complete at least 18 credits from CS courses numbered 300 or above,
+excluding CS 499. At least 9 of these 18 credits must be from the following
+Advanced Technical Elective (ATE) list:
+  CS 410 (Networks), CS 420 (ML), CS 450 (Advanced ML),
+  CS 460 (NLP), CS 370 (already required — does NOT count toward elective),
+
+Additional electives may be chosen from any CS 300+ course with advisor approval.
+
+--- Mathematics and Science Requirements (15 credits) ---
+
+  MATH 201 (counted in core), MATH 202 (counted in core), MATH 301 (counted in core)
+  Two lab science sequences: PHYS 101 + PHYS 201 recommended (8 credits)
+
+--- General Education Requirements (30 credits) ---
+
+  English Composition I and II (6 cr)
+  Social Sciences (9 cr)
+  Humanities/Arts (9 cr)
+  Additional General Education (6 cr) — must be non-CS
+
+--- Free Electives (12 credits) ---
+
+Any coursework from any department, with academic advisor approval.
+
+--- Residency Requirement ---
+
+At least 30 of the final 45 credit hours toward the degree must be completed
+at this institution (in-residence). Transfer credits may satisfy earlier
+requirements but cannot substitute for the residency requirement.
+
+--- Minimum GPA Requirement ---
+
+Students must maintain a cumulative GPA of 2.0 or higher across all coursework.
+A CS GPA of 2.5 or higher is required for enrollment in CS 499.
+
+================================================================================
+SECTION 5: ACADEMIC POLICIES
+================================================================================
+
+--- Prerequisite Policy ---
+
+A prerequisite is a course that must be COMPLETED (not in-progress) before
+enrolling in the subsequent course, unless explicitly labeled as a co-requisite.
+A co-requisite is a course that may be taken concurrently in the same term.
+
+Students found enrolled in a course without meeting its prerequisites will be
+administratively withdrawn prior to the end of the add/drop period.
+
+--- Minimum Grade Policy ---
+
+For a course to satisfy a prerequisite requirement, the student must have earned
+a grade of C (2.0) or better. A grade of C- (1.7) or D does NOT satisfy
+prerequisite requirements, even if the course is otherwise passed.
+
+Exception: A student may petition the department chair for a prerequisite waiver
+if they earned a C- and can demonstrate subsequent academic improvement.
+
+--- Course Repeat Policy ---
+
+A student may repeat any course once without special permission.
+A second repeat requires written approval from the academic dean.
+When a course is repeated, the HIGHER of the two grades will be used in
+computing the GPA (grade replacement policy). Both attempts remain on the transcript.
+A student may not repeat a course in which they earned a B or higher.
+
+--- Credit Load Policy ---
+
+The standard full-time credit load is 12–18 credits per semester.
+Enrollment above 18 credits requires written approval from the academic advisor.
+Part-time students (fewer than 12 credits) are not eligible for certain financial
+aid packages — consult the Financial Aid office.
+
+--- Transfer Credit Policy ---
+
+Transfer credits from accredited institutions will be evaluated by the Registrar.
+Equivalent courses may satisfy prerequisite requirements pending Registrar approval.
+Students must submit official transcripts. Transfer credit decisions may take
+up to 30 business days and are subject to department review.
+No more than 60 transfer credits may be applied toward the 120-credit degree total.
+
+--- Academic Integrity ---
+
+All coursework must be the student's own. Use of AI-generated content must be
+disclosed to the instructor per course policy. Violations are subject to
+the university's Academic Integrity Policy and may result in course failure
+or academic dismissal.
