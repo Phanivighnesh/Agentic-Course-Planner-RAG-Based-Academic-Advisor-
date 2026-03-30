@@ -412,18 +412,3 @@ python evaluation/run_eval.py --output eval_results.json  # full 25 queries
 
 ---
 
-## ✅ Success Checklist
-
-Before submitting, verify:
-
-- [ ] Virtual environment created and activated
-- [ ] All packages installed (`pip install -r requirements.txt`)
-- [ ] `.env` file exists with valid `GROQ_API_KEY`
-- [ ] Real catalog files in `data/catalog/`
-- [ ] `python -m rag.ingest` completed without errors
-- [ ] `python quick_start.py` shows all 3 steps passing
-- [ ] `streamlit run app.py` opens the UI at localhost:8501
-- [ ] At least 3 sample queries tested in the UI
-- [ ] `python evaluation/run_eval.py --limit 3` runs without hanging
-- [ ] GitHub repo pushed with README and all source files
-- [ ] `.env` is **NOT** committed to GitHub (add to `.gitignore`)
