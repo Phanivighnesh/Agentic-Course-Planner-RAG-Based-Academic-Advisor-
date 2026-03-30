@@ -54,7 +54,7 @@ No GPU required. No Ollama required.
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Phanivighnesh/Agentic-Course-Planner-RAG-Based-Academic-Advisor-.git
 cd rag_advisor
 pip install -r requirements.txt
 ```
